@@ -125,7 +125,7 @@
   width: 100%;
 }
 
-.delivered-meals {
+.todos-client {
   display: flex;
   align-items: center;
   gap: 1.6rem;
@@ -182,9 +182,8 @@
 }
 
 .logos img {
-  height: 3.2rem;
-  filter: brightness(0);
-  opacity: 50%;
+  height: 15rem;
+  opacity: 85%;
 }
 
 /**************************/
@@ -244,10 +243,10 @@
 }
 
 /**************************/
-/* MEALS SECTION */
+/* clientes SECTION */
 /**************************/
 
-.section-meals {
+.section-clients {
   padding: 9.6rem 0;
 }
 
@@ -392,7 +391,7 @@ TAGS DE VEGAN */
 }
 
 /**************************/
-/* MEALS SECTION */
+/* clientes SECTION */
 /**************************/
 
 .section-pricing {
@@ -587,7 +586,7 @@ TAGS DE VEGAN */
 /**************************/
 
 .footer {
-  padding: 12.8rem 0;
+  padding: 1.8rem 0;
   border-top: 1px solid #eee;
 }
 
@@ -595,15 +594,10 @@ TAGS DE VEGAN */
   grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
 }
 
-.logo-col {
-  display: flex;
-  flex-direction: column;
-}
 
-.footer-logo {
-  display: block;
-  margin-bottom: 3.2rem;
-}
+
+
+
 
 .social-links {
   list-style: none;
