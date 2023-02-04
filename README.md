@@ -1,6 +1,7 @@
 <span align="center">
 
 Website created for a company project, for a student of Bachelor of Physiotherapy, made entirely in HTML and CSS.
+Com colaboração da Estudante Maria Eduarda "https://github.com/DudaPiresLopes".
 </span>
 
 
